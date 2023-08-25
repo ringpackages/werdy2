@@ -2,6 +2,10 @@
 
 Werdy2 package for the Ring programming language
 
+# Screen Shot:
+
+![werdy](https://raw.githubusercontent.com/ringpackages/werdy2/master/images/shot1.png)
+
 ## Install
 
 	ringpm install werdy2

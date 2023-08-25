@@ -4,7 +4,11 @@ Werdy2 package for the Ring programming language
 
 ## Install
 
-	ringpm install werdy
+	ringpm install werdy2
+
+## Run
+
+	ringpm run werdy2
 
 ## Author
 

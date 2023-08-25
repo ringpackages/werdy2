@@ -180,7 +180,7 @@ app1 = new qapp{
 			eval('installeventfilter(myfilter'+suraIndexLoop+')')
 		next
 		
-		show()
+		showMaximized()
 	}
 	exec()
 }

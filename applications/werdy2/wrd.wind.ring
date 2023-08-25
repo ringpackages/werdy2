@@ -51,7 +51,7 @@ if werdWindStart=0
 			}
 			
 			setLayout(wrdReadWnd)
-			show()
+			showMaximized()
 			
 			
 		}

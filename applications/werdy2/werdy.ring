@@ -52,8 +52,7 @@ toolbarOpened=0
 
 
 #font
-oFont = new qfont("",0,0,0)
-oFont.setRawName("UthmanicHafs.ttf")
+oFont = new qfont("UthmanicHafs.ttf",0,0,0)
 oFont.setPixelSize(20)
 
 load "func.ring"

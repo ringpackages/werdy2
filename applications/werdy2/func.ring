@@ -2,7 +2,7 @@ oCon = new QSqlDatabase()
 oCon = oCon.addDatabase("QSQLITE")
 oCon.setDatabaseName("quran.db")
 oCon.open()
-query =query2= new QSqlQuery()
+query = new QSqlQuery()
 
 
 func table _text,pageID, joz, hezb,suraName
